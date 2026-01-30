@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📝 Todo App with Context API
 
 A modern, feature-rich Todo application built with **React** and **Vite**, demonstrating state management using the **Context API**. This project showcases clean architecture, React hooks, and persistent data storage.
@@ -218,3 +219,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 ⭐ **If you found this project helpful, please give it a star!** ⭐
+=======
+react learning industry level teaching 
+
+
+>>>>>>> ca8762a82b6e0afb391091b0ddcd5b78d760db08
